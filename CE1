@@ -1,0 +1,340 @@
+{
+    "nombre": "chukycine",
+    "autor": "chuky (Haz-Tu-Liada a 25-02-2024)",
+    "imagen": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
+    "info": "Enlaces de internet",
+    "telegrama": "+9qG8GCvYZ3lmNjRk",
+    "url": "https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine",
+    "grupos": [{
+                         "name": "Lista para todo el mundo (Sin lucrarse)",
+            "imagen": "https://i.pinimg.com/originals/8c/43/68/8c4368a166fcde510fcd051e4d309b6b.jpg",
+            "información": "",
+            "estaciones": [{
+                }]
+                   },{  
+            "name": "Estrenos de Cine",
+            "imagen": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
+            "información": "",
+               "estaciones": [{
+                    "nombre": "Bob Marley: Un amor (2023)Latino-TS",
+        "imagen": "https://www.elseptimoarte.net/carteles/341/bob_marley_one_love_99964.jpg",
+        "url": "https://upstream.to/ym91wydkcycl",
+        "isHost": "verdadero"
+                     },{  
+        "name" : "20.000 especies de abejas (2023)",
+        "imagen": "https://www.elseptimoarte.net/carteles/341/20000_especies_de_abejas_97351.jpeg",
+        "url": "https://vidmoly.to/l2th01xi73ro",
+        "isHost": "verdadero"
+                     },{
+        "nombre" : "Cerrar los ojos (2023)",
+        "imagen": "https://www.elseptimoarte.net/carteles/341/cerrar_los_ojos_98474.jpg",
+        "url": "https://cdnwish.com/e/ejhiovfxpsz8",
+        "isHost": "verdadero"
+                      },{
+                        "name": "Aquaman y el reino perdido (2023)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/aquaman_y_el_reino_perdido_99744.jpg",
+                   "URL": "http://embedv.net/v/6zeREaD1GnexZPa",
+			 "isHost": "verdadero"
+                          },{
+                          "name": "Los juegos del hambre: Balada de pájaros cantores y serpientes (2023)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/los_juegos_del_hambre_balada_de_pajaros_cantores_y_serpientes_99184.jpg",
+                   "URL": "http://embedv.net/v/6zeREaD1GnexZPa",
+			 "isHost": "verdadero"
+                          },{
+                          "nombre": "Viernes Negro (2023)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/black_friday_99298.jpg",
+                   "URL": "https://vidmoly.to/9hufedtt9758",
+			 "isHost": "verdadero"
+                          },{
+                         "name": "Apicultor: El protector (2024) TS-Latino",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/beekeeper_99567.jpg",
+                   	"URL": "https://cdnwish.com/e/d2cx8zz6kzvi",
+			 "isHost": "verdadero"
+                         },{  
+                        "name": "La sociedad de la nieve (2023)Latino",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/la_sociedad_de_la_nieve_100005.jpg",
+                   	"URL": "https://vidoza.net/2iw4zr86d03t",
+			 "isHost": "verdadero"
+                         },{  
+                         "name": "Migración. Un viaje patas arriba (2023) TS-Latino",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/migracion_un_viaje_patas_arriba_98443.jpg",
+                   	"url": "https://highstream.tv/iqnp1ncbdij6/VID_20240103_213812_497.mp4.html",
+			 "isHost": "verdadero"
+                         },{  
+                         "name": "Rebel Moon (Parte 1): La niña del fuego (2023)",
+                    "imagen": "https://pics.filmaffinity.com/rebel_moon_a_child_of_fire-103203161-mmed.jpg",
+                   	"URL": "https://upstream.to/b3l9tg86uuig",
+			 "isHost": "verdadero"
+                         },{  
+                          "nombre": "Wonka (2023)",
+                    "imagen": "https://pics.filmaffinity.com/wonka-476523968-mmed.jpg",         
+                   	"URL": "https://upstream.to/d031khqqvc46",
+			 "isHost": "verdadero"
+                         },{  
+                         "nombre": "Campeonex (2023)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/campeonex_98393.jpg",
+                   	"URL": "https://upstream.to/9w8zd8dpaf16",
+			 "isHost": "verdadero"
+                         },{
+                          "nombre": "Campeonex (2023) Opción 2",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/campeonex_98393.jpg",
+                   	"url": "https://highstream.tv/uvry2gh8k3j6/3xfn7kg1r3la.mp4.html",
+			 "isHost": "verdadero"
+                         },{
+                         "name": "Dejar el mundo atrás (2023)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/dejar_el_mundo_atras_99485.jpg",
+                   	"URL": "https://upstream.to/cm8is92bmsxi",
+			 "isHost": "verdadero"
+                         },{
+                          "name": "Mi querido monstruo (2022)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/mi_querido_monstruo_96555.jpg",
+                   	"URL": "https://vidmoly.to/mtj7hfjz9lw2",
+			 "isHost": "verdadero"
+                         },{
+                         "nombre": "Napoleón (2023)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/napoleon_99361.jpg",
+                   			     "url": "https://upstream.to/6snaiq5wlnnt",
+			 "isHost": "verdadero"
+                         },{
+                         "nombre": "Napoleón (2023)VOSE",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/napoleon_99361.jpg",
+                   			     "URL": "https://upstream.to/8svrc2kf4mbd",
+			 "isHost": "verdadero"
+                         },{
+                          "nombre": "La Ofrenda (2023)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/the_offering_96154.jpg",
+                   			     "URL": "https://upstream.to/6p3u1e10zxay",
+			 "isHost": "verdadero"
+                         },{
+                         "nombre": "Cinco noches en Freddy's (2023)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/cinco_noches_at_freddys_98903.jpg",
+                   			     "url": "https://upstream.to/d9dujon1whl8",
+			 "userAgent": "navegador"
+                         },{
+                         "name": "Deseo: El poder de los deseos (2023)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/wish_el_poder_de_los_deseos_99431.jpg",
+                    "url": "https://upstream.to/90cibuztv2zm",
+                    "isHost": "verdadero"
+                         },{  
+                         "nombre": "El Creador (2023)",
+                    "imagen": "https://pics.filmaffinity.com/the_creator-470808400-mmed.jpg",
+                    "url": "https://opvid.org/ve586vcif1od",
+                    "isHost": "verdadero"
+                         },{
+                          "nombre": "El Creador (2023) VOSE",
+                    "imagen": "https://pics.filmaffinity.com/the_creator-470808400-mmed.jpg",
+                    "url": "https://vidmoly.to/pu5fkh3v73qy",
+                    "isHost": "verdadero"
+                         },{
+                          "name": "Única superviviente (2022)",
+                    "imagen": "https://pics.filmaffinity.com/odna-940412659-msmall.jpg",
+                    "url": "https://upstream.to/eqhdmo5vmkva",
+                    "isHost": "verdadero"
+                         },{
+                         "name": "Trolls 3: Todos juntos (2023)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/trolls_3_todos_juntos_99193.jpg",
+                    "url": "https://cdnwish.com/e/y16o8stp4z5r",
+                    "isHost": "verdadero"
+                         },{
+                         "name": "Los mercen4rios (2023)VOSE",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/los_mercen4rios_98482.jpg",
+                    "url": "https://upstream.to/6a0j84yhos9p",
+                    "isHost": "verdadero"
+                         },{  
+                         "name": "Los mercen4rios (2023)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/los_mercen4rios_98482.jpg",
+                    "url": "https://upstream.to/3s5jyzb235fk",
+                    "isHost": "verdadero"
+                         },{
+                         "name": "Vacaciones de verano (2023)",
+                    "imagen": "https://pics.filmaffinity.com/vacaciones_de_verano-915162329-mmed.jpg",
+                    "url": "https://highstream.tv/slaalib61zgv/Vacaciones_de_verano_(2023)_[Bluray_720p][Esp](wolfmax4k.com).mkv.html",
+                    "isHost": "verdadero"
+                         },{
+                          "nombre": "¡Malditos amigos! (2023)",
+                    "imagen": "https://pics.filmaffinity.com/cursed_friends-307799818-mmed.jpg",
+                    "url": "https://upstream.to/4rexfnc0f0xc",
+                    "isHost": "verdadero"
+                         },{
+                          "nombre": "Encierro (2023)",
+                    "imagen": "https://pics.filmaffinity.com/locked_in-846133689-mmed.jpg",
+                    "url": "https://highstream.tv/syxpu14vig79/Encierro.mkv.html",
+                    "isHost": "verdadero"
+                         },{
+                          "name": "La Patrulla Canina:La superpelícula (2023)",
+                    "imagen": "https://pics.filmaffinity.com/paw_patrol_the_mighty_movie-340727255-mmed.jpg",
+                    "url": "https://vidmoly.to/s1r5ghr8cdg9",
+                    "isHost": "verdadero"
+                         },{
+                         "nombre": "Misterio en Venecia (2023)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/misterio_en_venecia_98622.jpg",
+                    "url": "https://upstream.to/dumpklys9ytn",
+                    "isHost": "verdadero"
+                         },{
+                          "nombre": "Saw X (2023)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/saw_x_98581.jpg",
+                    "url": "https://vidmoly.to/tmk7wbgpqnwu",
+                    "isHost": "verdadero"
+                         },{
+                         "name": "El exorcista: Creyente (2023)Latino",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/el_exorcista_creyente_98821.jpg",
+                    "url": "https://highstream.tv/smwhjki7entt/El_exorcista_El_creyente_[By_chuky].mp4.html",
+                    "isHost": "verdadero"
+                         },{
+                         "name": "Mi soledad tiene alas (2023)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/mi_soledad_tiene_alas_98635.jpg",
+                    "url": "https://upstream.to/tvmbc2eymsnd",
+                    "isHost": "verdadero"
+                         },{
+                        "name": "De perdidos a Río (2023)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/de_perdidos_a_rio_98229.jpg",
+                    "url": "https://upstream.to/t328kpei9ovd",
+                    "isHost": "verdadero"
+                         },{
+                         "nombre": "El Ecualizador 3 (2023)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/the_equalizer_3_98440.jpg",
+                    "url": "https://highstream.tv/fzpplp7qmip6/Equalizer_3.mp4.html",
+                    "isHost": "verdadero"
+                         },{
+                        "nombre": "Gran Turismo (2023)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/gran_turismo_97700.jpg",
+                    "url": "https://vidmoly.to/p58rfn3v99p8",
+                    "isHost": "verdadero"
+                         },{
+                          "nombre": "Escarabajo azul (2023)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/blue_beetle_98385.jpg",
+                    "url": "https://upstream.to/ehhjar5h9bua",
+                    "isHost": "verdadero"
+                         },{
+                       "name": "El hombre del saco (2023)",
+                    "imagen":"https://www.elseptimoarte.net/carteles/341/el_hombre_del_saco_98291.jpg",
+                    "url": "https://upstream.to/m28d92plsqtr",
+                    "isHost": "verdadero"
+                         },{
+                       "name": "Sin malos rollos (2023)",
+                    "imagen":"https://www.elseptimoarte.net/carteles/341/sin_malos_rollos_97549.jpg",
+                    "url": "https://upstream.to/aqycv5kwqyuh",
+                    "isHost": "verdadero"
+                      },{
+                         "name": "Las nadadoras (2023)",
+                    "imagen": "https://pics.filmaffinity.com/the_swimmers-319132424-mmed.jpg",
+                    "url": "https://upstream.to/yyq8g9dzr848",
+                    "isHost": "verdadero"
+                        },{
+                         "nombre": "Oppenheimer (2023)",
+                    "imagen":"https://www.elseptimoarte.net/carteles/341/oppenheimer_98461.jpg",
+                    "url": "https://upstream.to/zp23utk52d2i",
+                    "isHost": "verdadero"
+                        },{
+                         "name": "Oppenheimer (2023)opción 2",
+                    "imagen":"https://www.elseptimoarte.net/carteles/341/oppenheimer_98461.jpg",
+                    "url": "https://opvid.org/ke3gbzhoa93w",
+                    "isHost": "verdadero"
+                         },{
+                         "nombre": "Oppenheimer (2023) VOSE",
+                    "imagen":"https://www.elseptimoarte.net/carteles/341/oppenheimer_98461.jpg",
+                    "url": "https://opvid.online/6e3f8t0wn7jb",
+                    "isHost": "verdadero"  
+                        },{
+                         "name": "Terror en la pradera (2022)DVD Pantalla Latina",
+                    "imagen": "https://pics.filmaffinity.com/terror_on_the_prairie-185583861-mmed.jpg",
+                    "url": "https://upstream.to/ceekwhp2m58x",
+                    "isHost": "verdadero"
+                        },{
+                        "name": "Sonido de la Libertad (2022) Latino",
+                    "imagen":"https://www.elseptimoarte.net/carteles/341/sonido_de_libertad_98288.jpg",
+                    "url": "https://upstream.to/ibjiyg204wl9",
+                    "isHost": "verdadero"
+                        },{
+                        "nombre": "Elemental (2023)",
+                    "imagen":"https://www.elseptimoarte.net/carteles/341/elemental_97965.jpg",
+                    "url": "https://upstream.to/gq8rboyrcrk6",
+                    "isHost": "verdadero"
+                        },{  
+                        "name": "Megalodón 2: La fosa (2023)",
+                    "imagen":"https://www.elseptimoarte.net/carteles/341/megalodon_2_97707.jpg",
+                    "url": "https://upstream.to/6eyekwero625",
+                    "isHost": "verdadero"
+                        },{  
+                        "name": "Como Dios manda (2023)",
+                    "imagen": "https://pics.filmaffinity.com/como_dios_manda-396503421-mmed.jpg",
+                    "url": "https://upstream.to/y2hpgbuk5r78",
+                    "isHost": "verdadero"
+                        },{
+                         "name": "Llaman a la puerta (2023)",
+                    "imagen":"https://www.elseptimoarte.net/carteles/341/llaman_a_la_puerta_95797.jpg",
+                    "url": "https://upstream.to/r2481khxuibs",
+                    "isHost": "verdadero"
+                        },{
+                      "nombre": "65 (2023)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/65_96122.jpg",
+                    "url": "https://upstream.to/4ad13y3nzpx8",
+                    "isHost": "verdadero"
+                        },{
+                        "nombre": "La conspiración del diablo (2023)",
+                    "imagen":"https://www.elseptimoarte.net/carteles/341/the_devil_conspiracy_95743.jpg",
+                    "url": "https://upstream.to/an13zp4uclqa",
+                    "isHost": "verdadero"
+                        },{
+                          "nombre": "Barbie (2023)",
+                    "imagen": "https://pics.filmaffinity.com/barbie-295661697-mmed.jpg",
+                    "url": "https://vidmoly.to/3qxdvuz7wbbk",
+                    "isHost": "verdadero"  
+                          },{
+                          "nombre": "Barbie (2023) VOSE",
+                    "imagen": "https://pics.filmaffinity.com/barbie-295661697-mmed.jpg",
+                    "url": "https://upstream.to/ihl8c4z2tabj",
+                    "isHost": "verdadero"                                                  
+                }]
+                  },{
+            "nombre": "Ciclos y Sagas",
+            "imagen": "https://i.ibb.co/cJBBdnp/Sagas.jpg",
+            "información": "",
+            "estaciones": [{
+                                    "name": "Ahora me ves",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/ahora_me_ves..._20844.jpg",
+                    "url": "https://upstream.to/jyj6bp5tzj3l",
+                    "isHost": "verdadero"
+                 },{
+                    "name": "Ahora me ves 2",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/ahora_me_ves_2_54318.jpg",
+                    "url": "https://cloudvideo.tv/pdmk4j3aglrx",
+                    "isHost": "verdadero"
+                  },{
+                 "name": "Animales fantásticos y dónde encontrarlos (2016)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/animales_fantasticos_60857.jpg",
+                    "url": "https://upstream.to/7cexyn8v5ce2",
+                    "isHost": "verdadero"
+                },{
+                    "name": "Animales Fantásticos: Los crímenes de Grindelwald (2018)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/animales_fantasticos._los_crimenes_de_grindewald_73748.jpg",
+                    "url": "https://upstream.to/ry0s7kw2z0p0",
+                    "isHost": "verdadero"
+                    },{
+                        "name": "Animales fantásticos: Los secretos de Dumbledore (2022)",
+                    "imagen": "https://www.elseptimoarte.net/carteles/341/animales_fantasticos_los_secretos_de_dumbledore_92664.jpeg",
+                    "url": "https://upstream.to/iearllivmsnt",
+                    "isHost": "verdadero"
+                     },{
+                    "name": "A todo gas (2001)",
+                    "imagen": "https://pics.filmaffinity.com/the_fast_and_the_furious-493327751-msmall.jpg",
+                    "url": "https://opvid.org/hhod7inyywy4",
+                    "isHost": "verdadero"  
+                       },{
+					     "nombre" : "Tenor (2022)",
+        "imagen": "https://www.elseptimoarte.net/carteles/341/tenor_93425.jpg",
+        "url": "https://www.tokyvideo.com/es/video/tenor-pelicula-completa-gratis-en-espanol",
+        "isHost": "verdadero"
+                       },{
+        "nombre" : "9 reinas (2000) Latino",
+        "imagen": "https://pics.filmaffinity.com/nueve_reinas-699348153-mmed.jpg",
+        "URL": "https://upstream.to/dv44w71ffmmg",
+        "isHost": "verdadero"
+                       },{
+        "name" : "El sacrificio de un ciervo sagrado (2017)",
+        "imagen": "https://pics.filmaffinity.com/the_killing_of_a_sacred_deer-798468817-mmed.jpg",
+        "URL": "http://vidmoly.me/w/97ay5xov9gv6",
+        "isHost": "verdadero"
+                     }]
+            }]   
+   }
